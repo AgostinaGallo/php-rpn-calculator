@@ -1,4 +1,4 @@
-# Reverse Polish Notation (RPN) Calculator in PHP
+# [Reverse Polish Notation (RPN)](https://mathworld.wolfram.com/ReversePolishNotation.html) Calculator in PHP
 
 ## Introduction
 
@@ -6,7 +6,7 @@ This project showcases a PHP solution for implementing a Reverse Polish Notation
 
 ## Description
 
-Reverse Polish Notation (RPN) is a mathematical notation in which every operator follows all of its operands. It is also known as postfix notation. This project involves creating a menu-driven program that allows users to enter RPN expressions, evaluate them, and display all entered expressions that have not been evaluated.
+[Reverse Polish Notation (RPN)](https://mathworld.wolfram.com/ReversePolishNotation.html) is a mathematical notation in which every operator follows all of its operands. It is also known as postfix notation. This project involves creating a menu-driven program that allows users to enter RPN expressions, evaluate them, and display all entered expressions that have not been evaluated.
 
 ### Key Features:
 
